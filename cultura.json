@@ -1,0 +1,397 @@
+{
+  "id": "cultura",
+  "titulo": "Cultura general",
+  "descripcion": "Idiomas, música, cine, gastronomía y datos que conviene tener a mano.",
+  "icono": "img/icono-cultura.jpg",
+  "color": "#7c3aed",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "respuestas": [
+        "Lyon",
+        "Marsella",
+        "París",
+        "Niza"
+      ],
+      "correcta": 2,
+      "pista": "Es conocida como la ciudad de la luz.",
+      "explicacion": "París es la capital y la ciudad más poblada de Francia."
+    },
+    {
+      "pregunta": "¿Quién escribió Don Quijote de la Mancha?",
+      "respuestas": [
+        "Miguel de Cervantes",
+        "Lope de Vega",
+        "Federico García Lorca",
+        "Benito Pérez Galdós"
+      ],
+      "correcta": 0,
+      "pista": "Es una de las obras cumbres de la literatura española.",
+      "explicacion": "Miguel de Cervantes publicó la primera parte de Don Quijote en 1605."
+    },
+    {
+      "pregunta": "¿Cuál es el continente más grande del mundo?",
+      "respuestas": [
+        "África",
+        "América",
+        "Asia",
+        "Europa"
+      ],
+      "correcta": 2,
+      "pista": "En él se encuentran China, India y Rusia asiática.",
+      "explicacion": "Asia es el continente más extenso y también el más poblado."
+    },
+    {
+      "pregunta": "¿Cuál es el océano más grande del planeta?",
+      "respuestas": [
+        "Atlántico",
+        "Índico",
+        "Ártico",
+        "Pacífico"
+      ],
+      "correcta": 3,
+      "pista": "Baña las costas de Asia, América y Oceanía.",
+      "explicacion": "El océano Pacífico es el más extenso y profundo de la Tierra."
+    },
+    {
+      "pregunta": "¿Cuál es la moneda oficial de Japón?",
+      "respuestas": [
+        "El yuan",
+        "El yen",
+        "El won",
+        "El ringgit"
+      ],
+      "correcta": 1,
+      "pista": "Su símbolo es ¥.",
+      "explicacion": "El yen es la moneda de Japón."
+    },
+    {
+      "pregunta": "¿Quién pintó La Gioconda?",
+      "respuestas": [
+        "Miguel Ángel",
+        "Rafael",
+        "Leonardo da Vinci",
+        "Botticelli"
+      ],
+      "correcta": 2,
+      "pista": "También conocido por El hombre de Vitruvio.",
+      "explicacion": "La Gioconda es una obra de Leonardo da Vinci, expuesta en el Louvre."
+    },
+    {
+      "pregunta": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+      "respuestas": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correcta": 2,
+      "pista": "Incluye al portero.",
+      "explicacion": "Cada equipo juega con 11 jugadores, incluido el portero."
+    },
+    {
+      "pregunta": "¿Cuál de estos es un instrumento de cuerda?",
+      "respuestas": [
+        "La trompeta",
+        "La guitarra",
+        "La flauta",
+        "El tambor"
+      ],
+      "correcta": 1,
+      "pista": "Sus cuerdas se pulsan con los dedos o con una púa.",
+      "explicacion": "La guitarra es un instrumento de cuerda; los otros son de viento o percusión."
+    },
+    {
+      "pregunta": "¿Cuál es el idioma con más hablantes nativos del mundo?",
+      "respuestas": [
+        "El inglés",
+        "El español",
+        "El chino mandarín",
+        "El hindi"
+      ],
+      "correcta": 2,
+      "pista": "Se habla principalmente en China.",
+      "explicacion": "El chino mandarín tiene el mayor número de hablantes nativos."
+    },
+    {
+      "pregunta": "¿Qué país tiene forma de bota?",
+      "respuestas": [
+        "Grecia",
+        "Italia",
+        "Portugal",
+        "Croacia"
+      ],
+      "correcta": 1,
+      "pista": "Su capital es Roma.",
+      "explicacion": "La península itálica recuerda a una bota."
+    },
+    {
+      "pregunta": "¿Quién escribió Romeo y Julieta?",
+      "respuestas": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Oscar Wilde",
+        "Jane Austen"
+      ],
+      "correcta": 0,
+      "pista": "Fue un dramaturgo inglés.",
+      "explicacion": "William Shakespeare escribió la tragedia Romeo y Julieta."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Italia?",
+      "respuestas": [
+        "Milán",
+        "Venecia",
+        "Roma",
+        "Nápoles"
+      ],
+      "correcta": 2,
+      "pista": "En ella se encuentra el Coliseo.",
+      "explicacion": "Roma es la capital de Italia."
+    },
+    {
+      "pregunta": "¿Quién pintó el Guernica?",
+      "respuestas": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Francisco de Goya"
+      ],
+      "correcta": 1,
+      "pista": "Es una de las obras más conocidas del cubismo.",
+      "explicacion": "Pablo Picasso pintó el Guernica en 1937."
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo químico del oro?",
+      "respuestas": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "correcta": 1,
+      "pista": "Viene del latín aurum.",
+      "explicacion": "El símbolo del oro es Au; Ag corresponde a la plata."
+    },
+    {
+      "pregunta": "¿Cuántas notas tiene la escala musical básica?",
+      "respuestas": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 2,
+      "pista": "Do, re, mi, fa, sol, la, si.",
+      "explicacion": "La escala diatónica básica tiene siete notas."
+    },
+    {
+      "pregunta": "¿Con qué deporte se asocia el torneo de Wimbledon?",
+      "respuestas": [
+        "Golf",
+        "Tenis",
+        "Ciclismo",
+        "Baloncesto"
+      ],
+      "correcta": 1,
+      "pista": "Se juega sobre hierba.",
+      "explicacion": "Wimbledon es uno de los cuatro Grand Slams de tenis."
+    },
+    {
+      "pregunta": "¿Qué premio es el más famoso del cine?",
+      "respuestas": [
+        "El Grammy",
+        "El Óscar",
+        "El Nobel",
+        "El Pulitzer"
+      ],
+      "correcta": 1,
+      "pista": "Lo entrega la Academia de Hollywood.",
+      "explicacion": "Los Premios Óscar son los galardones más conocidos del cine."
+    },
+    {
+      "pregunta": "¿Quién escribió la saga de Harry Potter?",
+      "respuestas": [
+        "J. K. Rowling",
+        "J. R. R. Tolkien",
+        "Suzanne Collins",
+        "C. S. Lewis"
+      ],
+      "correcta": 0,
+      "pista": "Su autora es británica.",
+      "explicacion": "J. K. Rowling creó la saga de Harry Potter."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Argentina?",
+      "respuestas": [
+        "Córdoba",
+        "Rosario",
+        "Buenos Aires",
+        "Mendoza"
+      ],
+      "correcta": 2,
+      "pista": "Es la ciudad más poblada del país.",
+      "explicacion": "Buenos Aires es la capital de Argentina."
+    },
+    {
+      "pregunta": "¿Qué organización agrupa a países como España, Francia y Alemania?",
+      "respuestas": [
+        "La Unión Europea",
+        "La ONU",
+        "La OTAN",
+        "El Mercosur"
+      ],
+      "correcta": 0,
+      "pista": "Tiene 27 Estados miembros.",
+      "explicacion": "España, Francia y Alemania son Estados miembros de la Unión Europea."
+    },
+    {
+      "pregunta": "¿En qué museo se encuentra La Gioconda?",
+      "respuestas": [
+        "El Prado",
+        "El Louvre",
+        "El MoMA",
+        "La National Gallery"
+      ],
+      "correcta": 1,
+      "pista": "Está en París.",
+      "explicacion": "La Gioconda se expone en el Museo del Louvre, en París."
+    },
+    {
+      "pregunta": "¿Cuál es un plato típico originario de Valencia?",
+      "respuestas": [
+        "La paella",
+        "El gazpacho",
+        "La fabada",
+        "El pulpo a la gallega"
+      ],
+      "correcta": 0,
+      "pista": "Se cocina en una sartén ancha y poco profunda.",
+      "explicacion": "La paella es un plato tradicional valenciano."
+    },
+    {
+      "pregunta": "¿Qué dios griego estaba asociado al mar?",
+      "respuestas": [
+        "Zeus",
+        "Poseidón",
+        "Ares",
+        "Apolo"
+      ],
+      "correcta": 1,
+      "pista": "Su equivalente romano es Neptuno.",
+      "explicacion": "Poseidón era el dios griego del mar."
+    },
+    {
+      "pregunta": "¿Cuántos aros tienen los Juegos Olímpicos?",
+      "respuestas": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correcta": 2,
+      "pista": "Representan los continentes unidos por el deporte.",
+      "explicacion": "El símbolo olímpico tiene cinco aros entrelazados.",
+      "imagen": "img/juegos-olimpicos.jpg",
+      "imagenAlt": "Cinco aros olímpicos entrelazados sobre fondo claro"
+    },
+    {
+      "pregunta": "¿Quién inventó la dinamita y dio nombre a los premios Nobel?",
+      "respuestas": [
+        "Thomas Edison",
+        "Alfred Nobel",
+        "Nikola Tesla",
+        "Alexander Graham Bell"
+      ],
+      "correcta": 1,
+      "pista": "Los premios se financian con su fortuna.",
+      "explicacion": "Alfred Nobel inventó la dinamita y creó los premios que llevan su nombre."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Canadá?",
+      "respuestas": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Ottawa"
+      ],
+      "correcta": 3,
+      "pista": "No es la ciudad más poblada del país.",
+      "explicacion": "Ottawa es la capital de Canadá, aunque Toronto es la ciudad más poblada."
+    },
+    {
+      "pregunta": "¿Cuál es la moneda oficial de la zona euro?",
+      "respuestas": [
+        "El franco",
+        "La libra",
+        "El euro",
+        "La corona"
+      ],
+      "correcta": 2,
+      "pista": "Su símbolo es €.",
+      "explicacion": "El euro es la moneda oficial de los países de la zona euro."
+    },
+    {
+      "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
+      "respuestas": [
+        "Londres",
+        "Roma",
+        "París",
+        "Bruselas"
+      ],
+      "correcta": 2,
+      "pista": "Fue construida para la Exposición Universal de 1889.",
+      "explicacion": "La Torre Eiffel es uno de los monumentos más emblemáticos de París.",
+      "imagen": "img/monumentos.jpg",
+      "imagenAlt": "Ilustración de monumentos europeos como la Torre Eiffel y el Coliseo"
+    },
+    {
+      "pregunta": "¿Quién escribió El principito?",
+      "respuestas": [
+        "Antoine de Saint-Exupéry",
+        "Jules Verne",
+        "Victor Hugo",
+        "Albert Camus"
+      ],
+      "correcta": 0,
+      "pista": "Su autor era aviador francés.",
+      "explicacion": "Antoine de Saint-Exupéry escribió El principito."
+    },
+    {
+      "pregunta": "¿Cuántas cuerdas tiene una guitarra española estándar?",
+      "respuestas": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correcta": 2,
+      "pista": "Hay guitarras de 12, pero la estándar no.",
+      "explicacion": "La guitarra española clásica tiene seis cuerdas."
+    },
+    {
+      "pregunta": "¿Qué colores forman la bandera de España?",
+      "respuestas": [
+        "Rojo y amarillo",
+        "Azul y blanco",
+        "Verde y rojo",
+        "Negro y amarillo"
+      ],
+      "correcta": 0,
+      "pista": "El amarillo ocupa la franja central.",
+      "explicacion": "La bandera de España tiene franjas rojas y una amarilla central."
+    },
+    {
+      "pregunta": "¿Qué significa la sigla ONU?",
+      "respuestas": [
+        "Organización de Naciones Unidas",
+        "Organización Nacional de Universidades",
+        "Oficina de Naciones y Unidades",
+        "Organización de Naciones y Estados"
+      ],
+      "correcta": 0,
+      "pista": "Se fundó en 1945 para promover la paz.",
+      "explicacion": "ONU significa Organización de las Naciones Unidas."
+    }
+  ]
+}

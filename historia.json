@@ -1,0 +1,397 @@
+{
+  "id": "historia",
+  "titulo": "Historia y geografía",
+  "descripcion": "Fechas clave, civilizaciones, países, capitales y rincones del planeta.",
+  "icono": "img/icono-historia.jpg",
+  "color": "#b45309",
+  "preguntas": [
+    {
+      "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+      "respuestas": [
+        "1492",
+        "1522",
+        "1453",
+        "1519"
+      ],
+      "correcta": 0,
+      "pista": "Fue el mismo año de la toma de Granada.",
+      "explicacion": "Colón llegó a América en 1492, durante su primer viaje."
+    },
+    {
+      "pregunta": "¿En qué año cayó el Muro de Berlín?",
+      "respuestas": [
+        "1961",
+        "1989",
+        "1991",
+        "1945"
+      ],
+      "correcta": 1,
+      "pista": "Fue un símbolo del final de la Guerra Fría.",
+      "explicacion": "El Muro de Berlín cayó en 1989.",
+      "imagen": "img/linea-tiempo.jpg",
+      "imagenAlt": "Línea del tiempo con los años 1492, 1789, 1945 y 1989"
+    },
+    {
+      "pregunta": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "respuestas": [
+        "1918",
+        "1939",
+        "1945",
+        "1950"
+      ],
+      "correcta": 2,
+      "pista": "Ese mismo año se creó la ONU.",
+      "explicacion": "La Segunda Guerra Mundial terminó en 1945."
+    },
+    {
+      "pregunta": "¿En qué año comenzó la Revolución Francesa?",
+      "respuestas": [
+        "1776",
+        "1789",
+        "1804",
+        "1815"
+      ],
+      "correcta": 1,
+      "pista": "Se inició con la toma de la Bastilla.",
+      "explicacion": "La Revolución Francesa comenzó en 1789."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "respuestas": [
+        "Sídney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "correcta": 2,
+      "pista": "No es la ciudad más conocida del país.",
+      "explicacion": "Canberra es la capital de Australia; Sídney es la ciudad más poblada."
+    },
+    {
+      "pregunta": "¿Cuál es el río más caudaloso del mundo?",
+      "respuestas": [
+        "El Nilo",
+        "El Amazonas",
+        "El Yangtsé",
+        "El Misisipi"
+      ],
+      "correcta": 1,
+      "pista": "Atraviesa la mayor selva tropical del planeta.",
+      "explicacion": "El Amazonas es el río con mayor caudal de agua del mundo."
+    },
+    {
+      "pregunta": "¿Cuál es el desierto cálido más grande del mundo?",
+      "respuestas": [
+        "El Gobi",
+        "El Kalahari",
+        "El Sahara",
+        "Atacama"
+      ],
+      "correcta": 2,
+      "pista": "Ocupa gran parte del norte de África.",
+      "explicacion": "El Sahara es el desierto cálido más extenso del mundo."
+    },
+    {
+      "pregunta": "¿Cuál es el continente más pequeño?",
+      "respuestas": [
+        "Europa",
+        "Antártida",
+        "Oceanía",
+        "América del Sur"
+      ],
+      "correcta": 2,
+      "pista": "Incluye Australia y numerosas islas del Pacífico.",
+      "explicacion": "Oceanía es el continente más pequeño por superficie."
+    },
+    {
+      "pregunta": "¿Cuál es el país más extenso del mundo?",
+      "respuestas": [
+        "Canadá",
+        "China",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "correcta": 3,
+      "pista": "Se extiende por Europa y Asia.",
+      "explicacion": "Rusia es el país más extenso del mundo."
+    },
+    {
+      "pregunta": "¿Qué general romano fue asesinado en el año 44 a. C.?",
+      "respuestas": [
+        "Augusto",
+        "Julio César",
+        "Nerón",
+        "Trajano"
+      ],
+      "correcta": 1,
+      "pista": "Su muerte dio paso a una guerra civil.",
+      "explicacion": "Julio César fue asesinado en el Senado de Roma en el 44 a. C."
+    },
+    {
+      "pregunta": "¿En qué país se encuentran las pirámides de Giza?",
+      "respuestas": [
+        "México",
+        "Egipto",
+        "Irak",
+        "Sudán"
+      ],
+      "correcta": 1,
+      "pista": "Están junto a la ciudad de El Cairo.",
+      "explicacion": "Las pirámides de Giza están en Egipto."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Egipto?",
+      "respuestas": [
+        "Alejandría",
+        "Luxor",
+        "El Cairo",
+        "Asuán"
+      ],
+      "correcta": 2,
+      "pista": "Es la ciudad más grande del país.",
+      "explicacion": "El Cairo es la capital de Egipto."
+    },
+    {
+      "pregunta": "¿En qué años se desarrolló la Primera Guerra Mundial?",
+      "respuestas": [
+        "1914-1918",
+        "1939-1945",
+        "1905-1910",
+        "1920-1924"
+      ],
+      "correcta": 0,
+      "pista": "Terminó con el armisticio de 1918.",
+      "explicacion": "La Primera Guerra Mundial se desarrolló entre 1914 y 1918."
+    },
+    {
+      "pregunta": "¿En qué año se proclamó la independencia de Estados Unidos?",
+      "respuestas": [
+        "1776",
+        "1789",
+        "1810",
+        "1821"
+      ],
+      "correcta": 0,
+      "pista": "La Declaración de Independencia es de ese año.",
+      "explicacion": "Estados Unidos proclamó su independencia en 1776."
+    },
+    {
+      "pregunta": "¿En qué años transcurrió la Guerra Civil española?",
+      "respuestas": [
+        "1931-1936",
+        "1936-1939",
+        "1939-1945",
+        "1923-1930"
+      ],
+      "correcta": 1,
+      "pista": "Terminó con la victoria del bando franquista.",
+      "explicacion": "La Guerra Civil española se desarrolló entre 1936 y 1939."
+    },
+    {
+      "pregunta": "¿En qué año se firmó el Tratado de Maastricht?",
+      "respuestas": [
+        "1986",
+        "1992",
+        "1999",
+        "2002"
+      ],
+      "correcta": 1,
+      "pista": "Dio un impulso decisivo a la Unión Europea.",
+      "explicacion": "El Tratado de Maastricht se firmó en 1992."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Portugal?",
+      "respuestas": [
+        "Oporto",
+        "Lisboa",
+        "Coímbra",
+        "Faro"
+      ],
+      "correcta": 1,
+      "pista": "Está junto al estuario del Tajo.",
+      "explicacion": "Lisboa es la capital de Portugal."
+    },
+    {
+      "pregunta": "¿Cuál es la montaña más alta del mundo?",
+      "respuestas": [
+        "El K2",
+        "El Everest",
+        "El Kilimanjaro",
+        "El Mont Blanc"
+      ],
+      "correcta": 1,
+      "pista": "Está en la cordillera del Himalaya.",
+      "explicacion": "El Everest, con 8.848 metros, es la montaña más alta del mundo."
+    },
+    {
+      "pregunta": "¿Qué cordillera separa Europa de Asia?",
+      "respuestas": [
+        "Los Alpes",
+        "Los Urales",
+        "Los Cárpatos",
+        "El Cáucaso"
+      ],
+      "correcta": 1,
+      "pista": "Se extiende de norte a sur por Rusia.",
+      "explicacion": "Los montes Urales se consideran la frontera natural entre Europa y Asia."
+    },
+    {
+      "pregunta": "¿Qué océano separa América de Europa?",
+      "respuestas": [
+        "El Pacífico",
+        "El Índico",
+        "El Atlántico",
+        "El Ártico"
+      ],
+      "correcta": 2,
+      "pista": "Colón lo cruzó en 1492.",
+      "explicacion": "El océano Atlántico separa América de Europa y África."
+    },
+    {
+      "pregunta": "¿Qué civilización construyó Machu Picchu?",
+      "respuestas": [
+        "La azteca",
+        "La maya",
+        "La inca",
+        "La egipcia"
+      ],
+      "correcta": 2,
+      "pista": "Se encuentra en Perú.",
+      "explicacion": "Machu Picchu fue construida por la civilización inca."
+    },
+    {
+      "pregunta": "¿En qué ciudad nació la democracia?",
+      "respuestas": [
+        "Roma",
+        "Atenas",
+        "Esparta",
+        "Alejandría"
+      ],
+      "correcta": 1,
+      "pista": "Allí se reunía la Eclessia.",
+      "explicacion": "La democracia ateniense se desarrolló en la antigua Grecia."
+    },
+    {
+      "pregunta": "¿En qué año se aprobó la Constitución española actual?",
+      "respuestas": [
+        "1975",
+        "1978",
+        "1981",
+        "1986"
+      ],
+      "correcta": 1,
+      "pista": "Se ratificó en referéndum ese mismo año.",
+      "explicacion": "La Constitución española se aprobó en 1978."
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Marruecos?",
+      "respuestas": [
+        "Casablanca",
+        "Marrakech",
+        "Rabat",
+        "Tánger"
+      ],
+      "correcta": 2,
+      "pista": "No es la ciudad más poblada del país.",
+      "explicacion": "Rabat es la capital de Marruecos; Casablanca es la ciudad más poblada."
+    },
+    {
+      "pregunta": "¿Cuál es la isla más grande del mundo?",
+      "respuestas": [
+        "Australia",
+        "Groenlandia",
+        "Nueva Guinea",
+        "Borneo"
+      ],
+      "correcta": 1,
+      "pista": "Es un territorio autónomo de Dinamarca.",
+      "explicacion": "Groenlandia es la isla más grande del mundo; Australia se considera continente."
+    },
+    {
+      "pregunta": "¿Qué canal une el océano Atlántico y el Pacífico?",
+      "respuestas": [
+        "El canal de Suez",
+        "El canal de Panamá",
+        "El canal de Kiel",
+        "El canal de Corinto"
+      ],
+      "correcta": 1,
+      "pista": "Está en América Central.",
+      "explicacion": "El canal de Panamá conecta el Atlántico y el Pacífico."
+    },
+    {
+      "pregunta": "¿Qué canal une el mar Mediterráneo y el mar Rojo?",
+      "respuestas": [
+        "El canal de Panamá",
+        "El canal de Suez",
+        "El Bósforo",
+        "El estrecho de Gibraltar"
+      ],
+      "correcta": 1,
+      "pista": "Está en Egipto.",
+      "explicacion": "El canal de Suez conecta el Mediterráneo con el mar Rojo."
+    },
+    {
+      "pregunta": "¿Quién fue Nelson Mandela?",
+      "respuestas": [
+        "Un líder sudafricano que luchó contra el apartheid",
+        "Un presidente de Estados Unidos",
+        "Un emperador romano",
+        "Un explorador portugués"
+      ],
+      "correcta": 0,
+      "pista": "Fue presidente de Sudáfrica tras salir de prisión.",
+      "explicacion": "Nelson Mandela luchó contra el apartheid y fue presidente de Sudáfrica."
+    },
+    {
+      "pregunta": "¿Quién fue la primera persona en pisar la Luna?",
+      "respuestas": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "John Glenn"
+      ],
+      "correcta": 1,
+      "pista": "Ocurrió en la misión Apolo 11.",
+      "explicacion": "Neil Armstrong pisó la Luna por primera vez en 1969."
+    },
+    {
+      "pregunta": "¿En qué año se hundió el Titanic?",
+      "respuestas": [
+        "1898",
+        "1912",
+        "1920",
+        "1935"
+      ],
+      "correcta": 1,
+      "pista": "Chocó contra un iceberg en su viaje inaugural.",
+      "explicacion": "El Titanic se hundió en abril de 1912."
+    },
+    {
+      "pregunta": "¿Cuántas comunidades autónomas tiene España?",
+      "respuestas": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correcta": 2,
+      "pista": "Además hay dos ciudades autónomas.",
+      "explicacion": "España tiene 17 comunidades autónomas y dos ciudades autónomas."
+    },
+    {
+      "pregunta": "¿Qué línea imaginaria divide la Tierra en hemisferio norte y hemisferio sur?",
+      "respuestas": [
+        "El meridiano de Greenwich",
+        "El ecuador",
+        "El trópico de Cáncer",
+        "La línea de cambio de fecha"
+      ],
+      "correcta": 1,
+      "pista": "Está a 0 grados de latitud.",
+      "explicacion": "El ecuador divide la Tierra en los hemisferios norte y sur.",
+      "imagen": "img/globo-ecuador.jpg",
+      "imagenAlt": "Globo terrestre con el ecuador resaltado"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Cultural</title>
+  <link rel="icon" href="img/icono-cultura.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="contenedor cabecera__contenido">
+      <a class="logo" href="index.html">Quiz Cultural</a>
+      <nav class="menu">
+        <a href="index.html">Inicio</a>
+        <a href="ranking.html">Ranking</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="contenedor">
+    <section class="presentacion">
+      <h1>Pon a prueba tu cultura general</h1>
+      <p>Elige una categoría y responde 10 preguntas al azar. Puedes pedir una pista en cada pregunta y verás la explicación después de responder.</p>
+    </section>
+
+    <section>
+      <h2>Categorías</h2>
+      <p id="estadoMenu" class="mensaje">Cargando categorías...</p>
+      <div id="listaQuizzes" class="lista-quizzes"></div>
+    </section>
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <p>Quiz Cultural · Proyecto realizado con HTML, CSS y JavaScript.</p>
+    </div>
+  </footer>
+
+  <script src="utilidades.js"></script>
+  <script src="menu.js"></script>
+</body>
+</html>

@@ -1,0 +1,397 @@
+{
+  "id": "ciencias",
+  "titulo": "Ciencia y naturaleza",
+  "descripcion": "Planetas, células, química y fenómenos naturales. La ciencia explicada a base de preguntas.",
+  "icono": "img/icono-ciencias.jpg",
+  "color": "#0e7490",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+      "respuestas": [
+        "Venus",
+        "Mercurio",
+        "Tierra",
+        "Marte"
+      ],
+      "correcta": 1,
+      "pista": "Es también el planeta más pequeño del sistema solar.",
+      "explicacion": "Mercurio es el planeta más cercano al Sol y el más pequeño del sistema solar."
+    },
+    {
+      "pregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "respuestas": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Nitrógeno",
+        "Argón"
+      ],
+      "correcta": 2,
+      "pista": "Representa aproximadamente el 78 % del aire.",
+      "explicacion": "El nitrógeno constituye cerca del 78 % de la atmósfera; el oxígeno, un 21 %."
+    },
+    {
+      "pregunta": "¿Cuál es la unidad básica de la vida?",
+      "respuestas": [
+        "La célula",
+        "El átomo",
+        "El órgano",
+        "El tejido"
+      ],
+      "correcta": 0,
+      "pista": "Todos los seres vivos están formados por una o más.",
+      "explicacion": "La célula es la unidad estructural y funcional básica de los seres vivos."
+    },
+    {
+      "pregunta": "¿Cuál es la fórmula química del agua?",
+      "respuestas": [
+        "CO2",
+        "H2O",
+        "O2",
+        "NaCl"
+      ],
+      "correcta": 1,
+      "pista": "Tiene dos átomos de hidrógeno y uno de oxígeno.",
+      "explicacion": "El agua está formada por dos átomos de hidrógeno y uno de oxígeno: H2O."
+    },
+    {
+      "pregunta": "¿Qué orgánulo de la célula vegetal realiza la fotosíntesis?",
+      "respuestas": [
+        "La mitocondria",
+        "El cloroplasto",
+        "El núcleo",
+        "El ribosoma"
+      ],
+      "correcta": 1,
+      "pista": "Contiene clorofila, el pigmento verde.",
+      "explicacion": "Los cloroplastos contienen clorofila y realizan la fotosíntesis.",
+      "imagen": "img/fotosintesis.jpg",
+      "imagenAlt": "Esquema de la fotosíntesis en una hoja con entrada de dióxido de carbono y salida de oxígeno"
+    },
+    {
+      "pregunta": "¿Qué órgano bombea la sangre por todo el cuerpo?",
+      "respuestas": [
+        "El hígado",
+        "El corazón",
+        "Los pulmones",
+        "El riñón"
+      ],
+      "correcta": 1,
+      "pista": "Está en el centro del pecho.",
+      "explicacion": "El corazón impulsa la sangre a través del sistema circulatorio."
+    },
+    {
+      "pregunta": "¿Qué molécula contiene la información genética?",
+      "respuestas": [
+        "El ADN",
+        "La glucosa",
+        "La hemoglobina",
+        "El colesterol"
+      ],
+      "correcta": 0,
+      "pista": "Tiene forma de doble hélice.",
+      "explicacion": "El ADN almacena la información hereditaria de los seres vivos."
+    },
+    {
+      "pregunta": "¿A qué velocidad viaja aproximadamente la luz en el vacío?",
+      "respuestas": [
+        "3.000 km/s",
+        "30.000 km/s",
+        "300.000 km/s",
+        "3.000.000 km/s"
+      ],
+      "correcta": 2,
+      "pista": "Es una de las constantes fundamentales de la física.",
+      "explicacion": "La velocidad de la luz en el vacío es de unos 300.000 kilómetros por segundo."
+    },
+    {
+      "pregunta": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+      "respuestas": [
+        "La gravedad",
+        "El magnetismo",
+        "La electricidad",
+        "La fricción"
+      ],
+      "correcta": 0,
+      "pista": "Newton la describió con su ley de gravitación universal.",
+      "explicacion": "La gravedad atrae los cuerpos y mantiene los planetas en sus órbitas."
+    },
+    {
+      "pregunta": "¿En qué estado se encuentra el agua a 0 °C y presión normal?",
+      "respuestas": [
+        "Líquido",
+        "Sólido",
+        "Gaseoso",
+        "Plasma"
+      ],
+      "correcta": 1,
+      "pista": "Es su punto de congelación.",
+      "explicacion": "A 0 °C y presión normal, el agua se congela y pasa a estado sólido."
+    },
+    {
+      "pregunta": "¿Cuál de estos animales es un mamífero que pone huevos?",
+      "respuestas": [
+        "El ornitorrinco",
+        "El delfín",
+        "El pingüino",
+        "El cocodrilo"
+      ],
+      "correcta": 0,
+      "pista": "Es un mamífero monotrema de Australia.",
+      "explicacion": "El ornitorrinco es un mamífero que pone huevos y amamanta a sus crías."
+    },
+    {
+      "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+      "respuestas": [
+        "Júpiter",
+        "Venus",
+        "Marte",
+        "Saturno"
+      ],
+      "correcta": 2,
+      "pista": "Debe su color al óxido de hierro de su superficie.",
+      "explicacion": "Marte se ve rojizo por la presencia de óxido de hierro en su superficie."
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo químico del oxígeno?",
+      "respuestas": [
+        "Ox",
+        "O",
+        "O2",
+        "H"
+      ],
+      "correcta": 1,
+      "pista": "Es una sola letra.",
+      "explicacion": "El símbolo químico del oxígeno es O; O2 es la molécula de oxígeno."
+    },
+    {
+      "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+      "respuestas": [
+        "106",
+        "206",
+        "306",
+        "406"
+      ],
+      "correcta": 1,
+      "pista": "Los bebés tienen más, pero algunos se fusionan.",
+      "explicacion": "Un adulto tiene normalmente 206 huesos."
+    },
+    {
+      "pregunta": "¿Cómo se llama la división celular que produce dos células idénticas?",
+      "respuestas": [
+        "Meiosis",
+        "Mitosis",
+        "Fecundación",
+        "Fisión binaria"
+      ],
+      "correcta": 1,
+      "pista": "Es habitual en el crecimiento y la reparación de tejidos.",
+      "explicacion": "La mitosis genera dos células hijas con la misma información genética."
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "respuestas": [
+        "Saturno",
+        "Neptuno",
+        "Júpiter",
+        "Urano"
+      ],
+      "correcta": 2,
+      "pista": "Es un gigante gaseoso con una gran mancha roja.",
+      "explicacion": "Júpiter es el planeta más grande del sistema solar.",
+      "imagen": "img/sistema-solar.jpg",
+      "imagenAlt": "Esquema del sistema solar con los planetas ordenados desde el Sol"
+    },
+    {
+      "pregunta": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+      "respuestas": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Dióxido de carbono",
+        "Hidrógeno"
+      ],
+      "correcta": 2,
+      "pista": "Es el mismo gas que exhalamos al respirar.",
+      "explicacion": "Las plantas toman dióxido de carbono y liberan oxígeno durante la fotosíntesis."
+    },
+    {
+      "pregunta": "¿Cuál de estas fuentes de energía es renovable?",
+      "respuestas": [
+        "El carbón",
+        "El petróleo",
+        "La energía solar",
+        "El gas natural"
+      ],
+      "correcta": 2,
+      "pista": "Procede del Sol y no se agota a escala humana.",
+      "explicacion": "La energía solar es renovable; los combustibles fósiles no lo son."
+    },
+    {
+      "pregunta": "¿Qué instrumento se utiliza para medir la temperatura?",
+      "respuestas": [
+        "El barómetro",
+        "El termómetro",
+        "El anemómetro",
+        "El higrómetro"
+      ],
+      "correcta": 1,
+      "pista": "Su nombre contiene la palabra temperatura.",
+      "explicacion": "El termómetro mide la temperatura; el barómetro mide la presión atmosférica."
+    },
+    {
+      "pregunta": "¿Quién propuso la teoría de la evolución por selección natural?",
+      "respuestas": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Albert Einstein",
+        "Gregor Mendel"
+      ],
+      "correcta": 1,
+      "pista": "Viajó en el barco Beagle y estudió las islas Galápagos.",
+      "explicacion": "Charles Darwin explicó la evolución mediante la selección natural."
+    },
+    {
+      "pregunta": "¿Cuál es la unidad de fuerza en el Sistema Internacional?",
+      "respuestas": [
+        "El julio",
+        "El newton",
+        "El vatio",
+        "El pascal"
+      ],
+      "correcta": 1,
+      "pista": "Su símbolo es N.",
+      "explicacion": "La fuerza se mide en newtons (N) en el Sistema Internacional."
+    },
+    {
+      "pregunta": "¿Cuál de estos animales es un vertebrado?",
+      "respuestas": [
+        "La medusa",
+        "La estrella de mar",
+        "El pez",
+        "El insecto"
+      ],
+      "correcta": 2,
+      "pista": "Tiene columna vertebral.",
+      "explicacion": "Los peces son vertebrados; medusas, estrellas de mar e insectos son invertebrados."
+    },
+    {
+      "pregunta": "¿Qué órganos intervienen principalmente en la respiración humana?",
+      "respuestas": [
+        "Los riñones",
+        "Los pulmones",
+        "El hígado",
+        "El estómago"
+      ],
+      "correcta": 1,
+      "pista": "Se encuentran en el tórax.",
+      "explicacion": "Los pulmones realizan el intercambio de gases en la respiración."
+    },
+    {
+      "pregunta": "¿Qué es el Sol?",
+      "respuestas": [
+        "Un planeta",
+        "Un satélite",
+        "Una estrella",
+        "Un cometa"
+      ],
+      "correcta": 2,
+      "pista": "Es el centro de nuestro sistema planetario.",
+      "explicacion": "El Sol es una estrella de tipo espectral G que aporta luz y calor a la Tierra."
+    },
+    {
+      "pregunta": "¿Qué vasos sanguíneos llevan la sangre desde el corazón hacia los tejidos?",
+      "respuestas": [
+        "Las venas",
+        "Las arterias",
+        "Los capilares linfáticos",
+        "Los nervios"
+      ],
+      "correcta": 1,
+      "pista": "Suelen tener paredes más gruesas y elásticas.",
+      "explicacion": "Las arterias transportan sangre desde el corazón; las venas la devuelven."
+    },
+    {
+      "pregunta": "¿Qué pH tiene una disolución neutra?",
+      "respuestas": [
+        "0",
+        "7",
+        "10",
+        "14"
+      ],
+      "correcta": 1,
+      "pista": "Está en el centro de la escala de pH.",
+      "explicacion": "Un pH de 7 es neutro; por debajo es ácido y por encima, básico."
+    },
+    {
+      "pregunta": "¿Qué es un ecosistema?",
+      "respuestas": [
+        "Solo un conjunto de animales",
+        "Los seres vivos y el medio físico donde interactúan",
+        "Una zona sin vegetación",
+        "Un tipo de célula"
+      ],
+      "correcta": 1,
+      "pista": "Incluye factores bióticos y abióticos.",
+      "explicacion": "Un ecosistema está formado por los seres vivos y el medio físico con el que se relacionan."
+    },
+    {
+      "pregunta": "¿Qué tipo de célula tiene un núcleo definido?",
+      "respuestas": [
+        "Procariota",
+        "Eucariota",
+        "Vírica",
+        "Bacteriana"
+      ],
+      "correcta": 1,
+      "pista": "Las células animales y vegetales son de este tipo.",
+      "explicacion": "Las células eucariotas tienen un núcleo que contiene el material genético."
+    },
+    {
+      "pregunta": "¿Cuánto tarda aproximadamente la luz del Sol en llegar a la Tierra?",
+      "respuestas": [
+        "8 segundos",
+        "8 minutos",
+        "8 horas",
+        "8 días"
+      ],
+      "correcta": 1,
+      "pista": "Recorre unos 150 millones de kilómetros.",
+      "explicacion": "La luz solar tarda alrededor de 8 minutos y 20 segundos en alcanzar la Tierra."
+    },
+    {
+      "pregunta": "¿Cuáles son los tres estados clásicos de la materia?",
+      "respuestas": [
+        "Sólido, líquido y gaseoso",
+        "Frío, templado y caliente",
+        "Ácido, neutro y básico",
+        "Duro, blando y elástico"
+      ],
+      "correcta": 0,
+      "pista": "El agua puede encontrarse en los tres.",
+      "explicacion": "Los estados clásicos de la materia son sólido, líquido y gaseoso."
+    },
+    {
+      "pregunta": "¿Qué parte de la célula eucariota contiene el material genético?",
+      "respuestas": [
+        "La membrana",
+        "El núcleo",
+        "El citoplasma",
+        "La pared celular"
+      ],
+      "correcta": 1,
+      "pista": "Está rodeado por una envoltura nuclear.",
+      "explicacion": "El núcleo contiene el ADN y coordina muchas funciones celulares."
+    },
+    {
+      "pregunta": "¿Cuál de estos animales es herbívoro?",
+      "respuestas": [
+        "El león",
+        "La vaca",
+        "El águila",
+        "El tiburón"
+      ],
+      "correcta": 1,
+      "pista": "Se alimenta de hierba y plantas.",
+      "explicacion": "La vaca es herbívora; los otros ejemplos son carnívoros."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Partida · Quiz Cultural</title>
+  <link rel="icon" href="img/icono-cultura.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="contenedor cabecera__contenido">
+      <a class="logo" href="index.html">Quiz Cultural</a>
+      <nav class="menu">
+        <a href="index.html">Inicio</a>
+        <a href="ranking.html">Ranking</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="contenedor">
+    <p id="estadoCarga" class="mensaje">Cargando preguntas...</p>
+
+    <section id="estadoError" class="mensaje mensaje--error" hidden>
+      <h1>No se pudo cargar el quiz</h1>
+      <p id="errorDetalle"></p>
+      <a class="boton" href="index.html">Volver al inicio</a>
+    </section>
+
+    <section id="juego" hidden>
+      <div class="quiz-cabecera">
+        <div>
+          <p id="categoria" class="etiqueta"></p>
+          <h1 id="tituloQuiz"></h1>
+        </div>
+        <div class="marcador">
+          <p id="contadorPregunta"></p>
+          <p>Aciertos: <strong id="hudAciertos">0</strong> · Tiempo: <strong id="hudTiempo">00:00</strong></p>
+        </div>
+      </div>
+
+      <article class="pregunta">
+        <figure id="preguntaMedia" class="pregunta__imagen" hidden>
+          <img id="preguntaImagen" src="" alt="">
+        </figure>
+
+        <h2 id="preguntaTexto" class="pregunta__texto"></h2>
+        <p id="pista" class="pista" hidden></p>
+        <div id="respuestas" class="respuestas"></div>
+        <p id="retro" class="retro" hidden></p>
+
+        <div class="acciones">
+          <button id="botonPista" class="boton boton--secundario" type="button">Pedir pista</button>
+          <button id="botonConfirmar" class="boton" type="button" disabled>Confirmar respuesta</button>
+        </div>
+      </article>
+    </section>
+
+    <section id="resultados" hidden></section>
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <p>Quiz Cultural · Proyecto realizado con HTML, CSS y JavaScript.</p>
+    </div>
+  </footer>
+
+  <script src="utilidades.js"></script>
+  <script src="quiz.js"></script>
+</body>
+</html>

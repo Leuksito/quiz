@@ -1,0 +1,409 @@
+{
+  "id": "arte",
+  "titulo": "Arte y literatura",
+  "descripcion": "Grandes obras, autores, artistas y movimientos que han marcado la cultura.",
+  "icono": "img/icono-arte.jpg",
+  "color": "#be123c",
+  "preguntas": [
+    {
+      "pregunta": "¿Quién escribió La Odisea?",
+      "respuestas": [
+        "Virgilio",
+        "Homero",
+        "Sófocles",
+        "Esquilo"
+      ],
+      "correcta": 1,
+      "pista": "También se le atribuye la Ilíada.",
+      "explicacion": "La Odisea se atribuye al poeta griego Homero."
+    },
+    {
+      "pregunta": "¿Quién pintó La noche estrellada?",
+      "respuestas": [
+        "Claude Monet",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Gustav Klimt"
+      ],
+      "correcta": 1,
+      "pista": "Fue un pintor neerlandés del postimpresionismo.",
+      "explicacion": "Vincent van Gogh pintó La noche estrellada en 1889.",
+      "imagen": "img/arte-pintura.jpg",
+      "imagenAlt": "Ilustración de un cielo nocturno con remolinos y estrellas inspirada en el postimpresionismo"
+    },
+    {
+      "pregunta": "¿Quién esculpió el David?",
+      "respuestas": [
+        "Miguel Ángel",
+        "Donatello",
+        "Bernini",
+        "Rodin"
+      ],
+      "correcta": 0,
+      "pista": "La escultura se encuentra en Florencia.",
+      "explicacion": "Miguel Ángel esculpió el David entre 1501 y 1504."
+    },
+    {
+      "pregunta": "¿Quién pintó Las Meninas?",
+      "respuestas": [
+        "Francisco de Goya",
+        "Diego Velázquez",
+        "El Greco",
+        "Murillo"
+      ],
+      "correcta": 1,
+      "pista": "Fue pintor de la corte de Felipe IV.",
+      "explicacion": "Diego Velázquez pintó Las Meninas en 1656."
+    },
+    {
+      "pregunta": "¿Quién escribió Cien años de soledad?",
+      "respuestas": [
+        "Mario Vargas Llosa",
+        "Gabriel García Márquez",
+        "Julio Cortázar",
+        "Jorge Luis Borges"
+      ],
+      "correcta": 1,
+      "pista": "Es una obra clave del realismo mágico.",
+      "explicacion": "Gabriel García Márquez publicó Cien años de soledad en 1967."
+    },
+    {
+      "pregunta": "¿En qué movimiento artístico se encuadra el Guernica de Picasso?",
+      "respuestas": [
+        "Impresionismo",
+        "Cubismo",
+        "Romanticismo",
+        "Barroco"
+      ],
+      "correcta": 1,
+      "pista": "Rompe la perspectiva tradicional y descompone las formas.",
+      "explicacion": "El Guernica pertenece al cubismo, movimiento del que Picasso fue una figura central."
+    },
+    {
+      "pregunta": "¿Quién escribió La Divina Comedia?",
+      "respuestas": [
+        "Dante Alighieri",
+        "Petrarca",
+        "Boccaccio",
+        "Maquiavelo"
+      ],
+      "correcta": 0,
+      "pista": "La obra recorre el Infierno, el Purgatorio y el Paraíso.",
+      "explicacion": "La Divina Comedia es la obra más conocida de Dante Alighieri."
+    },
+    {
+      "pregunta": "¿Quién compuso la Novena Sinfonía?",
+      "respuestas": [
+        "Mozart",
+        "Bach",
+        "Beethoven",
+        "Haydn"
+      ],
+      "correcta": 2,
+      "pista": "Incluye la Oda a la Alegría.",
+      "explicacion": "Ludwig van Beethoven compuso la Novena Sinfonía, con la Oda a la Alegría en su último movimiento."
+    },
+    {
+      "pregunta": "¿Qué novela protagoniza Alonso Quijano, también llamado el Caballero de la Triste Figura?",
+      "respuestas": [
+        "El Quijote",
+        "La Celestina",
+        "El Lazarillo de Tormes",
+        "Fuenteovejuna"
+      ],
+      "correcta": 0,
+      "pista": "Su autor es Miguel de Cervantes.",
+      "explicacion": "Alonso Quijano es el nombre real de Don Quijote de la Mancha.",
+      "imagen": "img/libros.jpg",
+      "imagenAlt": "Pila de libros clásicos con un volumen abierto en primer plano"
+    },
+    {
+      "pregunta": "¿Quién escribió Orgullo y prejuicio?",
+      "respuestas": [
+        "Emily Brontë",
+        "Jane Austen",
+        "Mary Shelley",
+        "Virginia Woolf"
+      ],
+      "correcta": 1,
+      "pista": "La novela gira en torno a Elizabeth Bennet y el señor Darcy.",
+      "explicacion": "Jane Austen publicó Orgullo y prejuicio en 1813."
+    },
+    {
+      "pregunta": "¿Quién pintó el techo de la Capilla Sixtina?",
+      "respuestas": [
+        "Rafael",
+        "Miguel Ángel",
+        "Leonardo da Vinci",
+        "Tiziano"
+      ],
+      "correcta": 1,
+      "pista": "También esculpió el David.",
+      "explicacion": "Miguel Ángel pintó el techo de la Capilla Sixtina entre 1508 y 1512."
+    },
+    {
+      "pregunta": "¿Quién escribió Hamlet?",
+      "respuestas": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "John Milton",
+        "Charles Dickens"
+      ],
+      "correcta": 1,
+      "pista": "La obra incluye el famoso monólogo \"Ser o no ser\".",
+      "explicacion": "Hamlet es una tragedia de William Shakespeare."
+    },
+    {
+      "pregunta": "¿Quién escribió 1984?",
+      "respuestas": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Isaac Asimov"
+      ],
+      "correcta": 1,
+      "pista": "La novela introduce el concepto del Gran Hermano.",
+      "explicacion": "George Orwell publicó 1984 en 1949."
+    },
+    {
+      "pregunta": "¿A qué movimiento artístico se asocia Salvador Dalí?",
+      "respuestas": [
+        "Surrealismo",
+        "Cubismo",
+        "Impresionismo",
+        "Neoclasicismo"
+      ],
+      "correcta": 0,
+      "pista": "Sus obras mezclan sueños, símbolos y realidades oníricas.",
+      "explicacion": "Salvador Dalí fue uno de los grandes representantes del surrealismo."
+    },
+    {
+      "pregunta": "¿Quién escribió La casa de los espíritus?",
+      "respuestas": [
+        "Laura Esquivel",
+        "Isabel Allende",
+        "Clarice Lispector",
+        "Elena Poniatowska"
+      ],
+      "correcta": 1,
+      "pista": "Su autora es chilena.",
+      "explicacion": "Isabel Allende publicó La casa de los espíritus en 1982."
+    },
+    {
+      "pregunta": "¿Qué poeta español escribió Poeta en Nueva York?",
+      "respuestas": [
+        "Antonio Machado",
+        "Federico García Lorca",
+        "Juan Ramón Jiménez",
+        "Rafael Alberti"
+      ],
+      "correcta": 1,
+      "pista": "Formó parte de la Generación del 27.",
+      "explicacion": "Federico García Lorca escribió Poeta en Nueva York durante su estancia en la ciudad."
+    },
+    {
+      "pregunta": "¿Quién compuso El lago de los cisnes?",
+      "respuestas": [
+        "Frédéric Chopin",
+        "Ígor Stravinski",
+        "Piotr Ilich Chaikovski",
+        "Sergei Prokófiev"
+      ],
+      "correcta": 2,
+      "pista": "Es uno de los ballets más famosos del mundo.",
+      "explicacion": "El lago de los cisnes es un ballet compuesto por Chaikovski."
+    },
+    {
+      "pregunta": "¿Cuál de estas novelas fue escrita por Julio Verne?",
+      "respuestas": [
+        "Viaje al centro de la Tierra",
+        "Crimen y castigo",
+        "Moby Dick",
+        "La isla del tesoro"
+      ],
+      "correcta": 0,
+      "pista": "Su autor es un pionero de la ciencia ficción y la novela de aventuras.",
+      "explicacion": "Julio Verne escribió Viaje al centro de la Tierra, entre otras obras de aventuras."
+    },
+    {
+      "pregunta": "¿Quién escribió El retrato de Dorian Gray?",
+      "respuestas": [
+        "Oscar Wilde",
+        "Robert Louis Stevenson",
+        "Bram Stoker",
+        "Henry James"
+      ],
+      "correcta": 0,
+      "pista": "Su autor fue un escritor irlandés del siglo XIX.",
+      "explicacion": "Oscar Wilde publicó El retrato de Dorian Gray en 1890."
+    },
+    {
+      "pregunta": "¿Cómo se llama la técnica de pintar sobre yeso húmedo?",
+      "respuestas": [
+        "Óleo",
+        "Acuarela",
+        "Fresco",
+        "Temple"
+      ],
+      "correcta": 2,
+      "pista": "Fue muy usada en el Renacimiento italiano.",
+      "explicacion": "El fresco consiste en aplicar pigmentos sobre yeso húmedo, que fija el color al secarse."
+    },
+    {
+      "pregunta": "¿Quién pintó el mural El hombre controlador del universo?",
+      "respuestas": [
+        "David Alfaro Siqueiros",
+        "Diego Rivera",
+        "Frida Kahlo",
+        "José Clemente Orozco"
+      ],
+      "correcta": 1,
+      "pista": "Fue un muralista mexicano.",
+      "explicacion": "Diego Rivera pintó El hombre controlador del universo, también conocido como El hombre en el cruce de caminos."
+    },
+    {
+      "pregunta": "¿Qué escritor creó al detective Sherlock Holmes?",
+      "respuestas": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Edgar Allan Poe",
+        "Raymond Chandler"
+      ],
+      "correcta": 1,
+      "pista": "Su ayudante es el doctor Watson.",
+      "explicacion": "Arthur Conan Doyle creó a Sherlock Holmes."
+    },
+    {
+      "pregunta": "¿Quién escribió el poema La canción del pirata?",
+      "respuestas": [
+        "Gustavo Adolfo Bécquer",
+        "José de Espronceda",
+        "Rosalía de Castro",
+        "Rubén Darío"
+      ],
+      "correcta": 1,
+      "pista": "Pertenece al Romanticismo español.",
+      "explicacion": "José de Espronceda escribió La canción del pirata."
+    },
+    {
+      "pregunta": "¿Qué instrumento tocaba Niccolò Paganini?",
+      "respuestas": [
+        "El piano",
+        "El violín",
+        "La guitarra",
+        "El violonchelo"
+      ],
+      "correcta": 1,
+      "pista": "Fue un virtuoso famoso por su técnica extraordinaria.",
+      "explicacion": "Paganini fue un violinista y compositor italiano."
+    },
+    {
+      "pregunta": "¿Quién escribió Fahrenheit 451?",
+      "respuestas": [
+        "Ray Bradbury",
+        "George Orwell",
+        "Philip K. Dick",
+        "H. G. Wells"
+      ],
+      "correcta": 0,
+      "pista": "La novela imagina una sociedad donde se queman libros.",
+      "explicacion": "Ray Bradbury publicó Fahrenheit 451 en 1953."
+    },
+    {
+      "pregunta": "¿Quién escribió Niebla?",
+      "respuestas": [
+        "Pío Baroja",
+        "Miguel de Unamuno",
+        "Ramón del Valle-Inclán",
+        "Azorín"
+      ],
+      "correcta": 1,
+      "pista": "Su protagonista es Augusto Pérez.",
+      "explicacion": "Niebla es una novela de Miguel de Unamuno, publicada en 1914."
+    },
+    {
+      "pregunta": "¿En qué museo se expone Las Meninas?",
+      "respuestas": [
+        "Museo del Prado",
+        "Museo Reina Sofía",
+        "Museo Thyssen",
+        "Louvre"
+      ],
+      "correcta": 0,
+      "pista": "Está en Madrid.",
+      "explicacion": "Las Meninas se exponen en el Museo del Prado."
+    },
+    {
+      "pregunta": "¿Quién escribió La Regenta?",
+      "respuestas": [
+        "Benito Pérez Galdós",
+        "Leopoldo Alas \"Clarín\"",
+        "Emilia Pardo Bazán",
+        "Vicente Blasco Ibáñez"
+      ],
+      "correcta": 1,
+      "pista": "Su autor era conocido por el seudónimo Clarín.",
+      "explicacion": "Leopoldo Alas \"Clarín\" escribió La Regenta, publicada en 1884."
+    },
+    {
+      "pregunta": "¿Qué tipo de obra es La Celestina?",
+      "respuestas": [
+        "Tragicomedia",
+        "Poema épico",
+        "Ensayo",
+        "Novela policiaca"
+      ],
+      "correcta": 0,
+      "pista": "Mezcla elementos cómicos y trágicos.",
+      "explicacion": "La Celestina, de Fernando de Rojas, se considera una tragicomedia."
+    },
+    {
+      "pregunta": "¿Quién compuso la ópera La flauta mágica?",
+      "respuestas": [
+        "Wolfgang Amadeus Mozart",
+        "Giuseppe Verdi",
+        "Richard Wagner",
+        "Georg Friedrich Händel"
+      ],
+      "correcta": 0,
+      "pista": "Fue un compositor austriaco del Clasicismo.",
+      "explicacion": "La flauta mágica es una ópera de Mozart estrenada en 1791."
+    },
+    {
+      "pregunta": "¿Quién escribió Rayuela?",
+      "respuestas": [
+        "Jorge Luis Borges",
+        "Julio Cortázar",
+        "Mario Benedetti",
+        "Carlos Fuentes"
+      ],
+      "correcta": 1,
+      "pista": "La novela permite distintas lecturas y órdenes.",
+      "explicacion": "Rayuela es una novela experimental de Julio Cortázar publicada en 1963."
+    },
+    {
+      "pregunta": "¿Quién pintó La persistencia de la memoria, con sus relojes derretidos?",
+      "respuestas": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Pablo Picasso"
+      ],
+      "correcta": 0,
+      "pista": "El autor es una figura clave del surrealismo.",
+      "explicacion": "Salvador Dalí pintó La persistencia de la memoria en 1931."
+    },
+    {
+      "pregunta": "¿Quién escribió La metamorfosis?",
+      "respuestas": [
+        "Franz Kafka",
+        "Thomas Mann",
+        "Hermann Hesse",
+        "Stefan Zweig"
+      ],
+      "correcta": 0,
+      "pista": "Su protagonista se transforma en un insecto.",
+      "explicacion": "La metamorfosis es una novela corta de Franz Kafka, publicada en 1915."
+    }
+  ]
+}

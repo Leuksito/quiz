@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ranking · Quiz Cultural</title>
+  <link rel="icon" href="img/icono-cultura.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="contenedor cabecera__contenido">
+      <a class="logo" href="index.html">Quiz Cultural</a>
+      <nav class="menu">
+        <a href="index.html">Inicio</a>
+        <a href="ranking.html">Ranking</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="contenedor">
+    <section class="presentacion">
+      <h1>Ranking</h1>
+      <p>Estas son las mejores puntuaciones guardadas en este navegador. Cada nombre conserva su mejor resultado en cada categoría.</p>
+    </section>
+
+    <div class="ranking-barra">
+      <label for="filtroRanking">Categoría</label>
+      <select id="filtroRanking">
+        <option value="todas">Todas</option>
+      </select>
+      <button id="borrarRanking" class="boton boton--secundario" type="button">Borrar ranking</button>
+    </div>
+
+    <p id="estadoRanking" class="mensaje">Cargando ranking...</p>
+    <div id="tablaRanking" hidden></div>
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <p>Quiz Cultural · El ranking se guarda en el almacenamiento local del navegador.</p>
+    </div>
+  </footer>
+
+  <script src="utilidades.js"></script>
+  <script src="ranking.js"></script>
+</body>
+</html>
